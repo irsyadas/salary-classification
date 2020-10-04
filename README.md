@@ -1,4 +1,4 @@
-# salary_classification
+# Salary Classification
 A final project to classify salary from each person using Sklearn and GridSearchCV for hyperparameter tuning
 
 # Prerequisites
